@@ -23,6 +23,7 @@ patch e.g. c:\Python39\Lib\site-packages\comtypes\__init__.py according to patch
 i.e., to avoid throwing exception when there is unknown version ''
 
 pip install pykinect2
+
 copy patches from patches\pykinect2\*.py to e.g. c:\Python39\Lib\site-packages\pykinect2
 
 run e.g. python PyKinectBody.py and play
